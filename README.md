@@ -10,3 +10,9 @@ git clone https://github.com/ysc3839/openwrt-minieap.git package/minieap
 make menuconfig # choose `minieap` in section `Network`
 make package/minieap/compile V=s
 ```
+
+## Thanks for
+```
+https://github.com/ysc3839/openwrt-minieap.git
+https://github.com/updateing/minieap.git
+```
