@@ -12,7 +12,6 @@ make package/minieap/compile V=s
 ```
 
 ## Thanks for
-```
-https://github.com/ysc3839/openwrt-minieap.git
-https://github.com/updateing/minieap.git
-```
+
+*https://github.com/ysc3839/openwrt-minieap.git
+*https://github.com/updateing/minieap.git
